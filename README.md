@@ -2,13 +2,24 @@
   <img src="banner.png" alt="Wallet Banner" width="100%" style="border-radius: 18px;">
 </p>
 
+<div align="center">
+
 # 🚀 Wallet — Student Wallet UI Prototype  
-A clean, minimal, Apple-style interface for a **parent-controlled student allowance wallet**.
+_A clean, minimal, Apple-style interface for a **parent-controlled student allowance wallet**._
+
+<p>
+  <img src="https://img.shields.io/badge/Tech-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Tech-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tech-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License: MIT">
+</p>
+
+</div>
 
 <p align="center">
   <img src="logo.svg" alt="Wallet Logo" width="120">
 </p>
-
 ---
 
 ## ✨ Tagline  
