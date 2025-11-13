@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License: MIT">
   </p>
 
-  <img src="banner.png" alt="Wallet Banner" width="80%" height="80" style="border-radius: 18px;"/>
+  <img src="ban.png" alt="Wallet Banner" width="80%" height="80" style="border-radius: 18px;"/>
 </p>
 
 ---
