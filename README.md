@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="banner.png" alt="Wallet Banner" width="100%" style="border-radius: 18px;">
-</p>
-
-<div align="center">
-<p align="center">
   <img src="logo.svg" alt="Wallet Logo" width="120">
   
   <h1 align="center">🚀 Wallet — Student Wallet UI Prototype</h1>
@@ -19,8 +14,10 @@
     <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License: MIT">
   </p>
 
-  <img src="banner.png" alt="Wallet Banner" width="80%" style="border-radius: 18px;">
+  <img src="banner.png" alt="Wallet Banner" width="80%" style="border-radius: 18px;"/>
 </p>
+
+---
 
 ## ✨ Tagline  
 A beautifully designed student wallet concept — where **parents manage allowances** and **students track spending**.
